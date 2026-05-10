@@ -1,1 +1,0 @@
-/home/ubuntu/AndroidStudioProjects/CameraXMyakuDetector/OpenCV/libcxx_helper/CMakeLists.txt

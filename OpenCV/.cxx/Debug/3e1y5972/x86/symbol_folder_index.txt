@@ -1,1 +1,0 @@
-/home/ubuntu/AndroidStudioProjects/CameraXMyakuDetector/OpenCV/build/intermediates/cxx/Debug/3e1y5972/obj/x86

@@ -1,1 +1,0 @@
-/home/ubuntu/AndroidStudioProjects/CameraXBasic3/OpenCV/build/intermediates/cxx/RelWithDebInfo/5z65366n/obj/x86
