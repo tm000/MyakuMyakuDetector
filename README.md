@@ -4,6 +4,7 @@ Android CameraX application that detects Myakumyaku, the official character of t
 
 ## Build
 
+You need to add the OpenCV dependency before building.
 To build the app directly from the command line, run:
 ```sh
 ./gradlew assembleDebug
