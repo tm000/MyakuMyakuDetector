@@ -1,5 +1,6 @@
-# MyakuMaykuDetector
-Android CameraX application that detects Myakumyaku, the official character of the Osaka-Kansai Expo 2025.
+# CameraXbasic
+
+CameraXbasic aims to demonstrate how to use CameraX APIs written in Kotlin.
 
 ## Build
 
