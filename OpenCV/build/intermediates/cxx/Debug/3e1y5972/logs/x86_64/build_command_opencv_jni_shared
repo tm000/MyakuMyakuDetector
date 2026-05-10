@@ -1,0 +1,4 @@
+/usr/bin/ninja \
+  -C \
+  /home/ubuntu/AndroidStudioProjects/CameraXBasic3/OpenCV/.cxx/Debug/3e1y5972/x86_64 \
+  opencv_jni_shared

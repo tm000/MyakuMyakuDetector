@@ -1,0 +1,3 @@
+/home/ubuntu/AndroidStudioProjects/CameraXBasic3/OpenCV/.cxx/RelWithDebInfo/5z65366n/x86/CMakeFiles/opencv_jni_shared.dir
+/home/ubuntu/AndroidStudioProjects/CameraXBasic3/OpenCV/.cxx/RelWithDebInfo/5z65366n/x86/CMakeFiles/edit_cache.dir
+/home/ubuntu/AndroidStudioProjects/CameraXBasic3/OpenCV/.cxx/RelWithDebInfo/5z65366n/x86/CMakeFiles/rebuild_cache.dir

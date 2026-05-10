@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/ubuntu/AndroidStudioProjects/CameraXBasic3/OpenCV/.cxx/Debug/3e1y5972/x86_64'
+ninja: no work to do.
